@@ -1,10 +1,12 @@
 # number-guessing-game-
 
-import random 
 
-def number_finding_game():
-    print("Welcome to the Enhanced Number Finding Game!")
-    
+
+    import random
+    def number_finding_game():
+
+     print("Welcome to the Enhanced Number Finding Game!")
+     
     while True:
         # Select difficulty level
         print("\nChoose a difficulty level:")
